@@ -612,7 +612,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-    background: #67b0d1;
+    background: #eb6c6c;
     top: 0;
     border-radius: 0px;
 }
@@ -624,7 +624,7 @@ section {
 .services .icon i {
     font-size: 48px;
     line-height: 1;
-    color: #67b0d1;
+    color: #eb6c6c;
     transition: all 0.3s ease-in-out;
 }
 
@@ -646,7 +646,7 @@ section {
 
 .services .icon-box:hover .title a,
 .services .icon-box:hover .description {
-    color: #fff;
+    color: #FFFFFF;
 }
 
 .services .icon-box:hover .icon i {
