@@ -616,6 +616,12 @@ section {
     z-index: -1;
 }
 
+.services img {
+    background: #FFFFFF;
+    width: 50%;
+    height: 50%;
+}
+
 .services .icon-box:hover::before {
     background: #eb6c6c;
     top: 0;
